@@ -1,1 +1,1 @@
-# ScreenTimeManager
+# ScreenTimeTracker
